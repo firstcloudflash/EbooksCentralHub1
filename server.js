@@ -1,5 +1,5 @@
 const express = require('express');
-const stripe = require('stripe')('sk_test_51PhUdwGVnP0Fr7K89OZ8LAmuOq2BV5cuk1v83AdCUfOSadJG3NXk8APMJkVniwnKfJcEp5xuZH3aWBOSwVO4zHx200VKujUbO1');
+const stripe = ();
 const bodyParser = require('body-parser');
 const app = express();
 const port = 3000;
